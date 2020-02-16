@@ -7,13 +7,13 @@
           <slot name="right"></slot>
         </header>
 </template>>
-<script>
+<script type="module">
 export default {
     props:{
         title:String
     }
 }
-</script>>
+</script>
 <style lang="stylus" rel="stylesheet/stylus">
 
  .header

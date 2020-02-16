@@ -180,7 +180,7 @@
             </ul>
           </div>
 </template>
-<script>
+<script  type="module">
 export default {
   
 }
